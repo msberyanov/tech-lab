@@ -1,7 +1,7 @@
 {
   "name": "itmo-labs",
   "version": "0.1.0",
-  "homepage": "https://msberyanov.github.io/itmo-labs",
+  "homepage": "https://msberyanov.github.io/tech-lab",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
