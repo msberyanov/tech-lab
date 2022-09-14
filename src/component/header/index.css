@@ -1,0 +1,49 @@
+.navigation-area {
+  width: 100%;
+  position: fixed;
+  display: flex;
+  padding: 20px 0 0 20px;
+  transition-property: transform;
+  transition-duration: .3s;
+  white-space: nowrap;
+}
+
+.navigation-area-hidden {
+  transform: translateY(-100px);
+}
+
+.navigation-link {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.navigation-button-area {
+  display: flex;
+  width: calc(50% - 20px);
+}
+
+.navigation-button-icon {
+  margin-right: 5px;
+  margin-bottom: -2px;
+}
+
+.navigation-button {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  padding: 12px;
+  margin-right: 10px;
+  box-shadow: 0px 4px 14px -5px rgba(34, 60, 80, 0.2);
+  transition-property: background, color, font-family;
+  transition-duration: .3s;
+}
+
+.navigation-button-selected {
+  background: #282c34;
+  color: white;
+  font-family: "Golos-UI-Bold", serif;
+}
+
+.navigation-button:hover {
+  background: #282c34;
+  color: white;
+}

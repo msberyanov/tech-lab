@@ -1,0 +1,17 @@
+.glossary-relation {
+  position: absolute;
+  background: rgba(173, 119, 143, 0.38);
+  color: #1c1616;
+  border-radius: 7px;
+  backdrop-filter: blur(10px);
+  padding: 7px 7px 9px;
+  z-index: 1;
+  font-size: 15px;
+  transition-property: background, color;
+  transition-duration: .4s;
+}
+
+.glossary-relation-source {
+  background: #282c34;
+  color: white;
+}

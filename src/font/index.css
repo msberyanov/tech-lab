@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Golos-UI-Regular';
+  src: local('Golos-UI-Regular'), url(./Golos-UI-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'Golos-UI-Medium';
+  src: local('Golos-UI-Medium'), url(./Golos-UI-Medium.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: 'Golos-UI-Bold';
+  src: local('Golos-UI-Bold'), url(./Golos-UI-Bold.ttf) format("truetype");
+}
