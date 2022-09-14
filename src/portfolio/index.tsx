@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import './index.css';
 import { Glossary } from "../data/glossary";
 import { Card } from "../component/card";
-import { Route, Routes } from "react-router-dom";
+import { Navigate, Route, Routes } from "react-router-dom";
 import { Header } from "../component/header";
 import { AiOutlineArrowUp } from "react-icons/ai";
 import { Canvas } from "../component/canvas";
@@ -64,6 +64,12 @@ export const Portfolio: React.FC = () => {
             </div>
           }
         />
+
+        <Route
+          path="/*"
+          element={
+            <Navigate to="/glossary"/>
+          }/>
       </Routes>
 
       <footer
