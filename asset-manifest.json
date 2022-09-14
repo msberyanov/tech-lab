@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tech-lab/static/css/main.8ddc3799.css",
-    "main.js": "/tech-lab/static/js/main.0a33f951.js",
+    "main.js": "/tech-lab/static/js/main.545b083c.js",
     "static/media/avatar.png": "/tech-lab/static/media/avatar.f29b75555b98fdf2b9f0.png",
     "static/media/Golos-UI-Bold.ttf": "/tech-lab/static/media/Golos-UI-Bold.c0e021db79bdbbdeefad.ttf",
     "static/media/Golos-UI-Regular.ttf": "/tech-lab/static/media/Golos-UI-Regular.28e502dbcc83c91565af.ttf",
@@ -9,10 +9,10 @@
     "static/media/logo.png": "/tech-lab/static/media/logo.7f22357507439791ef2a.png",
     "index.html": "/tech-lab/index.html",
     "main.8ddc3799.css.map": "/tech-lab/static/css/main.8ddc3799.css.map",
-    "main.0a33f951.js.map": "/tech-lab/static/js/main.0a33f951.js.map"
+    "main.545b083c.js.map": "/tech-lab/static/js/main.545b083c.js.map"
   },
   "entrypoints": [
     "static/css/main.8ddc3799.css",
-    "static/js/main.0a33f951.js"
+    "static/js/main.545b083c.js"
   ]
 }
