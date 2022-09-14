@@ -7,3 +7,4 @@ Here you can see some screenshots:
 ![](screenshot/glossary-page.png)
 ![](screenshot/glossary-adaptive.png)
 ![](screenshot/mind-map-page.png)
+![](https://youtu.be/khvn0-HqCKE)
